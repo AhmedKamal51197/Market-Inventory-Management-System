@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1702532244 source:d:\c++code\acmloops\c-project\store\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1702532244 source:d:\projects_iti\c-project\store\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
